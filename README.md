@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=8600fd&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+Welcome+to+my+Profile!" alt="Hey, Welcome to my Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=1800&color=8600fd&center=true&vCenter=true&multiline=false&width=940&height=50&lines=Hey%2C+Welcome+to+my+Profile!+%F0%9F%91%8B%3BFull-Stack+Developer+%26+Scrum+Master+%F0%9F%9A%80%3BLaravel+%C2%B7+Vue.js+%C2%B7+AWS+%C2%B7+Docker+%E2%9A%A1%3BTurning+coffee+into+code+since+2018+%E2%98%95%3BBuilding+things+from+Alcoy%2C+Spain+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing animation" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8600fd,100:0079fa&height=90&section=header" width="100%"/>
